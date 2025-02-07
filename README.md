@@ -1,27 +1,21 @@
 # SQL Ad Hoc Analytics Project
 
-I am excited to share my project on Ad Hoc SQL Analytics, completed as part of the Resume Project Challenge at Codebasics. This project showcases my proficiency in SQL and data analytics to address real-world business problems through insights and data-driven decision-making.
+I am excited to share my project on Ad Hoc SQL Analytics. This project showcases my proficiency in SQL and data analytics to address real-world business problems through insights and data-driven decision-making.
 
 ---
-## Important Links
-- ---> [Portfolio](https://codebasics.io/portfolio/Kotha-Sai-Teja-Reddy)
-- ---> [LinkedIN Post](https://www.linkedin.com/posts/tejaa-reddy-kotha_codebasics-adabrhoc-analysis-activity-7264874262761545728-BGh3?utm_source=share&utm_medium=member_desktop)
-- ---> [Presentation PPT](https://app.powerbi.com/view?r=eyJrIjoiOGMzM2YwYzYtNzI5YS00N2U2LWI2ZTEtOTZhODJmMGQ5NTQzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+## Important Link
+- ---> [Portfolio](https://codebasics.io/portfolio/Navneet-Jaiswal)
 
 ## Problem Statement
 
-AtliQ Hardware, a prominent manufacturer of computer hardware in India and other countries, faces challenges in making timely and informed decisions based on data. To address this, the management plans to expand its data analytics team by recruiting additional junior data analysts. A SQL challenge was initiated as part of the hiring process to assess candidates' proficiency in technical skills as well as their ability to demonstrate soft skills.
+NexaBites, a prominent manufacturer of computer hardware in India and other countries, faces challenges in making timely and informed decisions based on data. To address this, the management plans to expand its data analytics team by recruiting additional junior data analysts. A SQL challenge was initiated as part of the hiring process to assess candidates' proficiency in technical skills as well as their ability to demonstrate soft skills.
 
 ## Tools and Concepts Used
 
 - **MySQL**
-  - **SQL Techniques**: Joins, Common Table Expressions (CTEs), Subqueries, Window Functions, String Functions, Numeric Functions, Date Functions, and more.
-- **Power BI**
-  - **Data Modeling**: Tables connected through data modeling.
-  - **Visuals Used**: Bar Chart, Line Chart, Pie Chart, Metrics Table, Microsoft Azure Maps.
-  - **DAX Measures Created**: Applied DAX for custom calculations.
-- **Canva**
-  - **Presentation**: Created visually appealing slides for showcasing findings.
+  - **Advanced SQL Querying**: Utilized JOINS, CTEs, Subqueries, and Window Functions to extract actionable insights from large datasets.
+  - **Aggregation & Performance Optimization**: Applied GROUP BY, HAVING, and Indexing to improve query efficiency and execution time.
+  - **Financial & Sales Analysis**: Queried gross sales, pre-invoice deductions, and revenue trends to support strategic decision-making.
 
 ## Key Concepts
 
@@ -44,8 +38,8 @@ AtliQ Hardware, a prominent manufacturer of computer hardware in India and other
   - Working with different data types: numeric, string, date, JSON, and spatial.
   - Creating a database from an ERD, importing data from CSV, and managing data with `INSERT`, `UPDATE`, and `DELETE`.
 
-- **AtliQ Hardware & Business Model**
-  - Concepts of relational vs. No-SQL databases, ETL, OLAP vs. OLTP, fact vs. dimension tables, and schema designs.
+- **Database Concepts & Business Model**
+  - Concepts of relational databases, ETL, OLAP vs. OLTP, fact vs. dimension tables, and schema designs.
 
 - **SQL Advanced: Finance Analytics**
   - Developing user-defined functions and stored procedures for financial reporting.
@@ -61,15 +55,11 @@ AtliQ Hardware, a prominent manufacturer of computer hardware in India and other
 
 ## Key Learnings
 
-Throughout this project, I gained valuable insights into the practical use of SQL for business analytics, from extracting data to generating complex reports and visualizing insights. The hands-on experience allowed me to:
+  - Strengthened SQL expertise, including stored procedures and views for data automation.
+  - Gained FMCG domain knowledge, focusing on key financial and operational metrics.
+  - Improved data storytelling and visualization for executive reporting.
 
-1. Efficiently manage data retrieval and complex queries using MySQL, applying techniques like joins, CTEs, and window functions.
-2. Design and optimize databases, ensuring data integrity and high performance for querying.
-3. Use Power BI to create interactive visualizations that support data-driven decision-making.
-4. Present findings effectively using Canva, enhancing my ability to communicate data insights to stakeholders.
-
----
 
 ## Conclusion
 
-This project has been instrumental in deepening my understanding of SQL's role in data analytics. It has enhanced my ability to extract meaningful insights from data and present them effectively to stakeholders. I look forward to applying these skills in future projects to drive strategic decision-making and operational efficiency.
+This project enhanced my SQL skills and ability to extract actionable insights from data. It deepened my understanding of business metrics and their role in decision-making. I look forward to applying these skills in future projects to drive business growth and operational efficiency.
